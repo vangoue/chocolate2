@@ -1,0 +1,7 @@
+a = 90
+if a < 60 and a > 90:
+    print ("warm outside")
+elif a <= 90:
+    print ("im burning it's hot outside")
+else:
+    print ("chilly")
