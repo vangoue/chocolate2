@@ -1,0 +1,173 @@
+table, td {
+
+	border: 1px solid white;
+
+}
+
+h1 {
+
+	font-family: Arial;
+
+	color: white;
+
+	text-align: center;
+
+	font-size: 35px;
+
+}
+
+#sub {
+
+	font-size: 18px;
+
+	font-style: Times;
+
+}
+
+#Aquarias {
+
+	width: 100px;
+
+	height: 100px;
+
+	float: right;
+
+	margin-top: -115px;
+
+	margin-right: -8px;
+
+	display: block;
+
+}
+
+iframe {
+
+	display: block;
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+}
+
+h3 {
+
+	color: white;
+
+	font-family: Helvetica;
+
+	text-align: center;
+
+	font-weight: bold;
+
+	font-size: 24px;
+
+}
+
+th {
+
+	color: white;
+
+	font-weight: bold;
+
+	font-size: 26px;
+
+}
+
+td {
+
+	color: white;
+
+	font-weight: bold;
+
+	font-size: 22px;
+
+}
+
+#newYear {
+
+	width: 200px;
+
+	height: 100px;
+
+	display: block;
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+}
+
+table {
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	width: 50%;
+
+}
+
+.winter {
+
+	background-image: url(http://snjtoday.images.worldnow.com/images/12835128_G.jpg);
+
+	filter: brightness(60%);
+
+	background-repeat: 
+
+}
+
+.spring {
+
+	background-image: url(http://theearthchild.co.za/wp-content/uploads/2017/03/download-2.jpe);
+
+	filter: brightness(70%);
+
+}
+
+.summer {
+
+	background-image: url(http://www.chasingsummerfestival.com/wordpress/wp-content/uploads/Chasing_Summer2016_Background_1920x1080.jpg);
+
+	filter: opacity(60%);
+
+}
+
+.summer h3 {
+
+	color: black;
+
+}
+
+.summer td {
+
+	color:black;
+
+}
+
+.summer th {
+
+	color: red;
+
+}
+
+.summer table {
+
+	border: 1px dashed black;
+
+}
+
+.fall {
+
+	background-image: url(https://newevolutiondesigns.com/images/freebies/fall-wallpaper-5.jpg);
+
+	filter: brightness(60%);
+
+}
+
+.winter td {
+
+	color: white;
+
+}
